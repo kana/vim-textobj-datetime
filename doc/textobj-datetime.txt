@@ -1,6 +1,6 @@
 *textobj-datetime.txt*	Text objects for date and time
 
-Version 0.3.1
+Version 0.3.2
 Script ID: 2101
 Copyright (C) 2007-2008 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -122,6 +122,10 @@ Currently, W3C-DTF is only supported.
 
 ==============================================================================
 CHANGELOG					*textobj-datetime-changelog*
+
+0.3.2	2012-03-24T14:34:19+09:00	    *textobj-datetime-changelog-0.3.2*
+	- Refine the document a bit.
+	- Refine the internal structure a bit.
 
 0.3.1	2008-06-11T22:07:26+09:00	    *textobj-datetime-changelog-0.3.1*
 	- Modify to use textobj-user version 0.3.3 or later.
