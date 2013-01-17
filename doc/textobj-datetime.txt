@@ -1,9 +1,9 @@
 *textobj-datetime.txt*	Text objects for date and time
 
-Version 0.3.2
+Version 0.3.3
 Script ID: 2101
-Copyright (C) 2007-2008 kana <http://whileimautomaton.net/>
-License: MIT license  {{{
+Copyright (C) 2007-2013 Kana Natsuno <http://whileimautomaton.net/>
+License: So-called MIT/X license  {{{
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
     "Software"), to deal in the Software without restriction, including
@@ -47,10 +47,10 @@ Requirements:
 - |textobj-user| 0.3.3 or later (vimscript#2100)
 
 Latest version:
-http://github.com/kana/config/commits/vim-textobj-datetime
+https://github.com/kana/vim-textobj-datetime
 
 Document in HTML format:
-http://kana.github.com/config/vim/textobj-datetime.html
+http://vim-doc.heroku.com/view?https://github.com/kana/vim-textobj-datetime/blob/master/doc/textobj-datetime.txt
 
 
 
@@ -122,6 +122,10 @@ Currently, W3C-DTF is only supported.
 
 ==============================================================================
 CHANGELOG					*textobj-datetime-changelog*
+
+0.3.3	2013-01-17T21:27:09+09:00	    *textobj-datetime-changelog-0.3.3*
+	- Support vim-flavor <https://github.com/kana/vim-flavor>.
+	- Update |textobj-datetime-introduction|.
 
 0.3.2	2012-03-24T14:34:19+09:00	    *textobj-datetime-changelog-0.3.2*
 	- Refine the document a bit.
