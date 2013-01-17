@@ -1,5 +1,5 @@
 " textobj-datetime - Text objects for date and time
-" Version: 0.3.2
+" Version: 0.3.3
 " Copyright (C) 2007-2013 Kana Natsuno <http://whileimautomaton.net/>
 " License: So-called MIT/X license  {{{
 "     Permission is hereby granted, free of charge, to any person obtaining
